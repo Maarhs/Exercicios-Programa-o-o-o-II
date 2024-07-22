@@ -1,0 +1,7 @@
+nun = int(input('digite o primeiro numero: '))
+nun2 = int(input('digite o segundo numero: '))
+print('Subtração;'f'{nun} - {nun2}=',nun-nun2)
+print(f'multipricação',f'{nun} * {nun2}=',nun*nun2)
+print(f'soma;',f'{nun} + {nun2}=',nun+nun2)
+print(f'exponenciação',f'{nun} ** {nun2}=',nun**nun2)
+print(f'resto da divisão',f'{nun} % {nun2}=',nun%nun2)
